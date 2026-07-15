@@ -1,0 +1,6 @@
+{
+  "name": "MOONSTONES",
+  "description": "Luxurious black, white, and gold inventory management and virtual showroom for premium marbles and stones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
